@@ -1,7 +1,7 @@
 # Janell's Programming Work
 
 ## Study Application
-[Study application] (https://github.com/janell-baxter/StudyApplication): A C# application that teaches and tests common programming terms. 
+[Study Application](https://github.com/janell-baxter/StudyApplication): A C# application that teaches and tests common programming terms. 
 
 ### Markdown
 
