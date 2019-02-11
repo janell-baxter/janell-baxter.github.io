@@ -1,11 +1,20 @@
-# Janell's Programming Work
+# Example of using markdown for a portfolio page
 
-## Study Application
-[Study Application](https://github.com/janell-baxter/StudyApplication): A C# application that teaches and tests common programming terms. 
+## Applications
+- [Zero Sum](https://github.com/janellbaxter/zero-sum-pennies): A C# WPF application of the penny game described in 'The Computational Beauty of Nature'. 
+- [WPF Navigation](https://github.com/janellbaxter/WPF-Navigation): A C# WPF example of using a frame and multiple pages.
+- [WPF-CharacterCustomizationExample](https://github.com/janellbaxter/WPF-Navigation): An example of using WPF and C# to allow a player to modify something with radio button choices (like an item or a creature companion).
+- [HistoricalFigures-InheritanceExample](https://github.com/janellbaxter/WPF-Navigation): An example of child classes inheriting from a base class in WPF and C#.
 
-### Markdown
+More projects on my [github repo site](https://github.com/janellbaxter?tab=repositories)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### Code Gists
+
+- [Gists used in class](https://gist.github.com/janell-baxter)
+- [Programming is Fun Gists and other example code](https://gist.github.com/janellbaxter)
+
+
 
 ```markdown
 Syntax highlighted code block
@@ -26,11 +35,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/janell-baxter/janell-baxter.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
