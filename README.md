@@ -1,6 +1,7 @@
-# Example of using markdown for a portfolio page
+# Portfolio Example (Introduction to Programming)
 
 ## Applications
+- [Trivia Application](https://github.com/janellbaxter/TriviaApplication): A trivia application framework.
 - [Zero Sum](https://github.com/janellbaxter/zero-sum-pennies): A C# WPF application of the penny game described in 'The Computational Beauty of Nature'. 
 - [WPF Navigation](https://github.com/janellbaxter/WPF-Navigation): A C# WPF example of using a frame and multiple pages.
 - [WPF-CharacterCustomizationExample](https://github.com/janellbaxter/WPF-Navigation): An example of using WPF and C# to allow a player to modify something with radio button choices (like an item or a creature companion).
