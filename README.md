@@ -1,4 +1,5 @@
 # Portfolio Example (Introduction to Programming)
+![Image](https://avatars1.githubusercontent.com/u/18712834?s=400&u=7a3229acbe5a3b42107c786e44accdbf0707d746&v=4)
 
 ## Applications
 - [Trivia Application](https://github.com/janellbaxter/TriviaApplication): A trivia application framework.
@@ -12,27 +13,27 @@ More projects on my [github repo site](https://github.com/janellbaxter?tab=repos
 
 ### Code Gists
 
-- [Gists used in class](https://gist.github.com/janell-baxter)
-- [Programming is Fun Gists and other example code](https://gist.github.com/janellbaxter)
+1. [Gists used in class](https://gist.github.com/janell-baxter)
+2. [Programming is Fun Gists and other example code](https://gist.github.com/janellbaxter)
 
 
-
+Code examples can be shown like this:
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+private void Play()
+        {
+            foreach (TriviaItem triviaItem in Questions)
+            {
+               Clear();
+               WriteLine(player.PlayerInformation());
+               WriteLine(triviaItem.Question);
+                string input = ReadLine();
+                if (triviaItem.CheckAnswer(input))
+                {
+                    player.IncrementScore();
+                }
+            }
+        }
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
