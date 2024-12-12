@@ -1,9 +1,7 @@
 # Programming Portfolio Example
 
-![Capture](https://github.com/user-attachments/assets/90f4c986-6d31-4a49-af8d-01af3e6bcee3)
-
 ## Adventure Game
-![Image](http://programmingisfun.com/wp-content/uploads/2016/06/adventuregameprogress.png)
+![adventuregame](https://github.com/user-attachments/assets/91a9bfb9-40f5-47ba-bd23-580a1b63b93f)
 
 A game that demonstrates object-oriented programming principles inheritance, encapsulation, and polymorphism.
 [C# Adventure Game](http://programmingisfun.com/learn/c-sharp-adventure-game)
