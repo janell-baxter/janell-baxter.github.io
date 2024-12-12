@@ -1,6 +1,6 @@
 # Programming Portfolio Example
 
- ![temp image](https://github.com/janell-baxter.github.io/Capture.PNG)
+ ![temp image](https://github.com/janell-baxter/janell-baxter.github.io/Capture.PNG)
 
 ## Adventure Game
 ![Image](http://programmingisfun.com/wp-content/uploads/2016/06/adventuregameprogress.png)
