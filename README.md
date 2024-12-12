@@ -1,6 +1,6 @@
 # Programming Portfolio Example
 
- ![example](Capture.png)
+ ![example](blob/master/Capture.png)
 
 ## Adventure Game
 ![Image](http://programmingisfun.com/wp-content/uploads/2016/06/adventuregameprogress.png)
