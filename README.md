@@ -23,7 +23,8 @@ Creates compositions, built with Processing.
 >
 > 
 ### Game Demo
-![Game Demo](https://github.com/janell-baxter/GameDemo)
+[Game Demo](https://github.com/janell-baxter/GameDemo)
+
 ### Adventure Game
 ![adventuregame](https://github.com/user-attachments/assets/91a9bfb9-40f5-47ba-bd23-580a1b63b93f)
 
