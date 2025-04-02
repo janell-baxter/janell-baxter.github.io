@@ -1,7 +1,9 @@
 # Programming Portfolio Example
-(https://github.com/user-attachments/assets/15cfc8e7-a8aa-4cb5-be86-ac3cdd2d23c6)
 
-![bear-head](https://github.com/user-attachments/assets/a3486d64-e8d1-4870-ae9b-7091dc616c07)
+## Composition Creator
+Creates compositions, built with Processing.
+<img width="517" alt="composition-maker-screenshot" src="https://github.com/user-attachments/assets/318ed5e3-7f03-4d21-9a94-2f56423a8a7d" />
+
 
 ## Adventure Game
 ![adventuregame](https://github.com/user-attachments/assets/91a9bfb9-40f5-47ba-bd23-580a1b63b93f)
