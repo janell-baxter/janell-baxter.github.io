@@ -1,4 +1,5 @@
 # Programming Portfolio Example
+([https://raw.githubusercontent.com/janell-baxter/janell-baxter.github.io/refs/heads/master/bear-head.png])
 
 ## Adventure Game
 ![adventuregame](https://github.com/user-attachments/assets/91a9bfb9-40f5-47ba-bd23-580a1b63b93f)
