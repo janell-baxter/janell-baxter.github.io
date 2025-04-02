@@ -13,6 +13,9 @@ Creates compositions, built with Processing.
 <img width="517" alt="composition-maker-screenshot" src="https://github.com/user-attachments/assets/318ed5e3-7f03-4d21-9a94-2f56423a8a7d" />
 
 ## C#
+
+### Game Demo
+![Game Demo](https://github.com/janell-baxter/GameDemo)
 ### Adventure Game
 ![adventuregame](https://github.com/user-attachments/assets/91a9bfb9-40f5-47ba-bd23-580a1b63b93f)
 
