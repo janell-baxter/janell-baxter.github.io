@@ -1,6 +1,7 @@
 # Programming Portfolio Example
 (https://github.com/user-attachments/assets/15cfc8e7-a8aa-4cb5-be86-ac3cdd2d23c6)
 
+![bear-head](https://github.com/user-attachments/assets/a3486d64-e8d1-4870-ae9b-7091dc616c07)
 
 ## Adventure Game
 ![adventuregame](https://github.com/user-attachments/assets/91a9bfb9-40f5-47ba-bd23-580a1b63b93f)
