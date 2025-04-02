@@ -4,6 +4,8 @@ An example of a portfolio in GitHub.
 email: janell *at* janellbaxter.com
 email: jbaxter **at** colum.edu
 
+😀😄😂🤣😀😄🙂😆🤣😄
+
 ## Code
 
 ### Composition Creator
