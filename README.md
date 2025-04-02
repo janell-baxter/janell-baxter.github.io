@@ -2,6 +2,7 @@
 
 ## Composition Creator
 Creates compositions, built with Processing.
+
 <img width="517" alt="composition-maker-screenshot" src="https://github.com/user-attachments/assets/318ed5e3-7f03-4d21-9a94-2f56423a8a7d" />
 
 
