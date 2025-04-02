@@ -1,18 +1,12 @@
 # Programming Portfolio Example
-An example of a portfolio in GitHub.
+An example of a portfolio in GitHub, created for coding and programming courses at Columbia College Chicago.
 
-email: janell *at* janellbaxter.com
-email: jbaxter **at** colum.edu
+## 🐻 Code
+> 🏅 PROG 102 Code
+> 
+> Information would be here
 
-😀😄😂🤣😀😄🙂😆🤣😄
-
-> 👍 Success
->
-> Vitae reprehenderit at aliquid error voluptates eum dignissimos.
-
-## Code
-
-### Composition Creator
+### 🖼️Composition Creator
 Creates compositions, built with Processing.
 
 * Loads random images
@@ -21,8 +15,13 @@ Creates compositions, built with Processing.
 
 <img width="517" alt="composition-maker-screenshot" src="https://github.com/user-attachments/assets/318ed5e3-7f03-4d21-9a94-2f56423a8a7d" />
 
-## C#
+## 🐻 C#
 
+> 🏅 PROG 205, 205, and 405
+> 
+> Information would be here
+>
+> 
 ### Game Demo
 ![Game Demo](https://github.com/janell-baxter/GameDemo)
 ### Adventure Game
