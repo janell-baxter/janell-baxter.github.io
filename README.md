@@ -7,13 +7,13 @@ An example of a portfolio in GitHub, created for coding and programming courses 
 > Information would be here
 
 ### 🖼️Composition Creator
-Creates compositions, built with Processing.
+Creates compositions.
 
 * Loads random images
 * Sets random location, transparency, and tint
-* Something else...
+* Built with Processing
 
-<img width="517" alt="composition-maker-screenshot" src="https://github.com/user-attachments/assets/318ed5e3-7f03-4d21-9a94-2f56423a8a7d" />
+<img height="517" alt="composition-maker-screenshot" src="https://github.com/user-attachments/assets/318ed5e3-7f03-4d21-9a94-2f56423a8a7d" />
 
 ## 🐻 C#
 
@@ -21,7 +21,7 @@ Creates compositions, built with Processing.
 > 
 > Information would be here
 >
-> 
+
 ### Game Demo
 [Game Demo](https://github.com/janell-baxter/GameDemo)
 
