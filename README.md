@@ -22,6 +22,11 @@ Creates compositions.
 > Information would be here
 >
 
+### WPF and LINQ
+
+<img width="427" alt="Screenshot 2021-04-07 142246" src="https://github.com/user-attachments/assets/a10fa951-3c39-408f-8688-7f2321716f16" />
+
+
 ### Game Demo
 [Game Demo](https://github.com/janell-baxter/GameDemo)
 
