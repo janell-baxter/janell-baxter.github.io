@@ -5,6 +5,7 @@ An example of a portfolio in GitHub, created for coding and programming courses 
 > 🏅 PROG 102 Code
 > 
 > Information would be here
+<img width="349" alt="Screenshot 2025-04-29 155634" src="https://github.com/user-attachments/assets/14b99732-9dba-4c42-a3b5-31e0fd83e6ca" />
 
 ### 🖼️Composition Creator
 Creates compositions.
