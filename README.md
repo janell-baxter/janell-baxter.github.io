@@ -18,6 +18,8 @@ Creates random compositions using Processing.
 
 <img height="517" alt="composition-maker-screenshot" src="https://github.com/user-attachments/assets/318ed5e3-7f03-4d21-9a94-2f56423a8a7d" />
 
+
+[Code Projects](#code-projects) | [C# Projects](#c-sharp-projects) | [Gists](#code-gists)
 ## C Sharp Projects
 
 > 🏅 PROG 205, 205, and 405
@@ -68,7 +70,7 @@ An application that lets a player create a custom insect character: [Adopt-An-In
 
 More projects on my [github repo site](https://github.com/janellbaxter?tab=repositories)
 
-
+[Code Projects](#code-projects) | [C# Projects](#c-sharp-projects) | [Gists](#code-gists)
 ## Code Gists
 
 1. [Gists used in class](https://gist.github.com/janell-baxter)
@@ -95,3 +97,4 @@ private void Play()
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+[Code Projects](#code-projects) | [C# Projects](#c-sharp-projects) | [Gists](#code-gists)
