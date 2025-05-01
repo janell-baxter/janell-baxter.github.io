@@ -1,14 +1,14 @@
-# Programming Portfolio Example
-An example of a portfolio in GitHub, created for coding and programming courses at Columbia College Chicago.
+# Example Programming Portfolio 
+An example of a portfolio in GitHub, created for coding and programming courses at Columbia College Chicago. Use markdown and GitHub's walkthrough to build a portfolio showcasing your work from class.
 
-## 🐻 Code
+## 🐻 Code Projects
 > 🏅 PROG 102 Code
 > 
 > Information would be here
 >
 
 ### 🖼️Composition Creator
-Creates compositions.
+Creates random compositions using Processing.
 
 * Loads random images
 * Sets random location, transparency, and tint
@@ -16,7 +16,7 @@ Creates compositions.
 
 <img height="517" alt="composition-maker-screenshot" src="https://github.com/user-attachments/assets/318ed5e3-7f03-4d21-9a94-2f56423a8a7d" />
 
-## 🐻 C#
+## 🐻 C# Projects
 
 > 🏅 PROG 205, 205, and 405
 > 
@@ -24,7 +24,7 @@ Creates compositions.
 >
 
 ### WPF and LINQ
-
+A WPF app created with C# that uses LINQ to query a set of data and show the results.
 <img width="427" alt="Screenshot 2021-04-07 142246" src="https://github.com/user-attachments/assets/a10fa951-3c39-408f-8688-7f2321716f16" />
 
 
