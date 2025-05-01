@@ -1,9 +1,9 @@
 # Example Programming Portfolio 
 An example of a portfolio in GitHub, created for coding and programming courses at Columbia College Chicago. Use markdown and GitHub's walkthrough to build a portfolio showcasing your work from class.
 
-[Code Projects](#🐻-code-projects) | [C# Projects](#🐻-c#-projects) | [Gists](#code-gists)
+[Code Projects](#code-projects) | [C# Projects](#c-sharp-projects) | [Gists](#code-gists)
 
-## 🐻 Code Projects
+## Code Projects
 > 🏅 PROG 102 Code
 > 
 > Information would be here
@@ -18,7 +18,7 @@ Creates random compositions using Processing.
 
 <img height="517" alt="composition-maker-screenshot" src="https://github.com/user-attachments/assets/318ed5e3-7f03-4d21-9a94-2f56423a8a7d" />
 
-## 🐻 C# Projects
+## C Sharp Projects
 
 > 🏅 PROG 205, 205, and 405
 > 
