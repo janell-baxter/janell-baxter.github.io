@@ -11,6 +11,8 @@ An example of a portfolio in GitHub, created for coding and programming courses 
 
 ### Duck Guessing Game
 Description of my awesome game.
+
+
 <img width="73" height="71" alt="duck" src="https://github.com/user-attachments/assets/bfca4332-3321-4d2f-824d-fe76236f3aeb" />
 
 
