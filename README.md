@@ -1,4 +1,4 @@
-# Example Programming Portfolio 
+# Programming Portfolio 
 An example of a portfolio in GitHub, created for coding and programming courses at Columbia College Chicago. Use markdown and GitHub's walkthrough to build a portfolio showcasing your work from class.
 
 [Code Projects](#code-projects) | [C# Projects](#c-sharp-projects) | [Gists](#code-gists)
