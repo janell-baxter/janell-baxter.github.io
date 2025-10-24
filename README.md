@@ -7,7 +7,15 @@ An example of a portfolio in GitHub, created for coding and programming courses 
 > 🏅 PROG 102 Code
 > 
 > Information would be here
->
+
+
+### Random Number Generator
+Description of the project would be here.
+
+
+<img width="1105" height="463" alt="Screenshot 2025-10-24 135916" src="https://github.com/user-attachments/assets/8eb7c97d-f292-4cd2-9a03-44bc9e1e98b9" />
+
+
 
 ### Duck Guessing Game
 Description of my awesome game.
