@@ -11,6 +11,7 @@ An example of a portfolio in GitHub, created for coding and programming courses 
 
 ### Random Number Generator
 Description of the project would be here.
+
 <img width="536" height="302" alt="Screenshot 2025-10-27 142720" src="https://github.com/user-attachments/assets/fb426ffd-b8db-4b54-9c42-f7bcb9e22c92" />
 
 
