@@ -8,6 +8,9 @@ An example of a portfolio in GitHub, created for coding and programming courses 
 > 
 > Information would be here
 
+<img width="2287" height="1684" alt="Screenshot 2025-08-29 053503" src="https://github.com/user-attachments/assets/47b83bd2-687a-497c-bed0-3314d2609d4d" />
+
+
 
 ### Random Number Generator
 Description of the project would be here.
