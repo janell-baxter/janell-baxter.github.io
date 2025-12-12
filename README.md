@@ -4,7 +4,7 @@ An example of a portfolio in GitHub, created for coding and programming courses 
 [Code Projects](#code-projects) | [C# Projects](#c-sharp-projects) | [Gists](#code-gists)
 
 ## Code Projects
-> 🏅 PROG 102 Code
+> 🏅 PROG 102 Code 😺❤️🥰😻😊🌞🥰
 > 
 > Information would be here
 
