@@ -2,6 +2,7 @@
 
 ## City of Chicago Data Visualization
 Description of what I did....
+
 ![data-vis](https://github.com/user-attachments/assets/d7b6cd09-5a13-4b39-a690-41203aeb98fd)
 
 
