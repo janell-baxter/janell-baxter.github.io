@@ -2,7 +2,6 @@
 
 ## City of Chicago Data Visualization
 Description of what I did....
-<img width="1368" height="774" alt="this should be a good description" src="https://github.com/user-attachments/assets/f3d3b968-278e-4240-b2ee-af65151e60b7" />
 ![data-vis](https://github.com/user-attachments/assets/d7b6cd09-5a13-4b39-a690-41203aeb98fd)
 
 
