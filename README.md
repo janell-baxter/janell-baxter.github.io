@@ -1,5 +1,11 @@
 # Programming Portfolio
 
+## Oggle!
+A version of Boggle created with C# and WPF.
+<img width="898" height="756" alt="Screenshot 2026-03-10 023350" src="https://github.com/user-attachments/assets/df687a15-0965-43e8-926d-e7f9707d474a" />
+
+
+
 ## City of Chicago Data Visualization
 Description of what I did.... a **data visualization** of data from *city of Chicago*...
 
