@@ -7,7 +7,7 @@ A version of Boggle created with C# and WPF.
 
 
 ## City of Chicago Data Visualization
-Description of what I did.... a **data visualization** of data from *city of Chicago*...
+Description .... a **data visualization** using data from *city of Chicago*...
 
 ![data-vis](https://github.com/user-attachments/assets/d7b6cd09-5a13-4b39-a690-41203aeb98fd)
 
