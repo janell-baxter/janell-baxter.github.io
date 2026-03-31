@@ -4,7 +4,8 @@
 A version of Boggle created with C# and WPF.
 <img width="400"  alt="Screenshot 2026-03-10 023350" src="https://github.com/user-attachments/assets/df687a15-0965-43e8-926d-e7f9707d474a" />
 
-
+## XML Read Write Example
+<img width="199" height="152" alt="xmldemo" src="https://github.com/user-attachments/assets/a084dec7-056b-4edb-8417-fb9f23bfe726" />
 
 ## City of Chicago Data Visualization
 Description .... a **data visualization** using data from *city of Chicago*...
