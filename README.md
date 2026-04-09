@@ -1,5 +1,5 @@
 # Programming Portfolio
-<img width="1033" height="244" alt="placeholderscreenshot" src="https://github.com/user-attachments/assets/212d462a-d703-4976-977a-8aae6163a074" />
+<img width="600" alt="placeholderscreenshot" src="https://github.com/user-attachments/assets/212d462a-d703-4976-977a-8aae6163a074" />
 
 ## Oggle!
 A version of Boggle created with C# and WPF.
