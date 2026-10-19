@@ -18,8 +18,6 @@ Description .... a **data visualization** using data from *city of Chicago*...
 This would be really amazing text that describes my awesome project - placeholder text for now..
 <img width="400" height="400" alt="GameMapSmall" src="https://github.com/user-attachments/assets/9af74278-b156-4c61-8869-5726ed970a70" />
 
-
-
 ## Adventure Game
 ![Image](http://programmingisfun.com/wp-content/uploads/2016/06/adventuregameprogress.png)
 
