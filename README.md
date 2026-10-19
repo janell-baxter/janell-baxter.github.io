@@ -14,6 +14,10 @@ Description .... a **data visualization** using data from *city of Chicago*...
 
 ![data-vis](https://github.com/user-attachments/assets/d7b6cd09-5a13-4b39-a690-41203aeb98fd)
 
+## Adventure Game 2026
+This would be really amazing text that describes my awesome project - placeholder text for now..
+<img width="1254" height="1254" alt="GameMap" src="https://github.com/user-attachments/assets/ee4d4a9b-0ed3-4ee9-a6f6-fb9409266feb" />
+
 
 ## Adventure Game
 ![Image](http://programmingisfun.com/wp-content/uploads/2016/06/adventuregameprogress.png)
