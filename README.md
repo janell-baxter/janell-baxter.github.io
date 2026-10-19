@@ -1,5 +1,4 @@
-<img width="569" height="590" alt="Screenshot 2026-10-19 125633" src="https://github.com/user-attachments/assets/7c5fefb4-c045-46c6-b97f-7e961bcfd90e" />
-# Programming Portfolio
+# Janell's Programming Portfolio
 <!-- comment! // -->
 <img width="600" alt="placeholderscreenshot" src="https://github.com/user-attachments/assets/212d462a-d703-4976-977a-8aae6163a074" />
 
