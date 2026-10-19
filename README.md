@@ -16,6 +16,10 @@ Description .... a **data visualization** using data from *city of Chicago*...
 
 ## Adventure Game 2026
 This would be really amazing text that describes my awesome project - placeholder text for now..
+We started with this map on the whiteboard....
+<img width="400" height="385" alt="mapSmall" src="https://github.com/user-attachments/assets/e6c6da7c-992a-4b7f-afca-3cc9dafcfe36" />
+
+And now the game looks like this...
 <img width="400" height="400" alt="GameMapSmall" src="https://github.com/user-attachments/assets/9af74278-b156-4c61-8869-5726ed970a70" />
 
 ## Adventure Game
