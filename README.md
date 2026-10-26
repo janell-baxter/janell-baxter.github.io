@@ -1,5 +1,7 @@
 # Programming Examples
 Examples for a class assignment to create a GitHub portfolio.
+ [Code](#code) | [Programming I](#programming-i) 
+
 
 <!-- comment! // -->
 <img width="600" alt="placeholderscreenshot" src="https://github.com/user-attachments/assets/212d462a-d703-4976-977a-8aae6163a074" />
@@ -74,7 +76,7 @@ private void Play()
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
-## Introduction to Programming Class Examples
+## Programming I
 * [WPF Navigation](https://github.com/janellbaxter/WPF-Navigation) A WPF example of using a frame that loads in different pages of content.
 * [WPF Historical Figures Inheritance Example](https://github.com/janellbaxter/HistoricalFigures-InheritanceExample) An example of child classes inheriting from a base class in WPF
 * [WPF Character Customization Example](https://github.com/janellbaxter/WPF-CharacterCustomizationExample) Example of using WPF and C# to allow a player to modify something with radio button choices (like an item or a creature companion)
@@ -90,3 +92,6 @@ More projects on my [github repo site](https://github.com/janellbaxter?tab=repos
 ## Programming @ CCC 
 * [Gists](https://gist.github.com/janell-baxter)
 * [Repos](https://github.com/ProgrammingCCC)
+
+
+[Top](#top) | [Code](#code) | [Programming I](#programming-i) 
