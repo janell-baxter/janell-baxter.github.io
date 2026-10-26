@@ -2,3 +2,68 @@
 ---
 
 @import "{{ site.theme }}";
+/* 
+
+title
+description
+your name, date
+
+additional comments
+
+*/
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f3f3f3;
+}
+
+/*==========content============== */
+main {
+  padding: 40px;
+}
+
+
+/*==========navigation============== */
+nav {
+  background-color: #364978;
+  padding: 10px 0;
+  
+  /*flexible box layout see: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout */
+  display: flex;
+  
+  /*  align items along the main axis of a flex container */
+  /* see https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content */
+  justify-content: center;
+  
+  /*define the spacing between rows and columns in layout models */
+  /* see https://developer.mozilla.org/en-US/docs/Web/CSS/gap*/
+  gap: 10px;
+}
+
+/* default navigation */
+nav a {
+  background-color: #5D6272;
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+nav a:hover {
+  background-color: #FAA1A1;
+}
+
+nav a.active {
+  background-color: #98AFE9;
+}
+
+main {
+
+}
+
+p {
+  width: 100%;
+  max-width: 500px; 
+  padding: 20px;
+}
