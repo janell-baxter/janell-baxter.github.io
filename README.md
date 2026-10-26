@@ -2,6 +2,9 @@
 <!-- comment! // -->
 <img width="600" alt="placeholderscreenshot" src="https://github.com/user-attachments/assets/212d462a-d703-4976-977a-8aae6163a074" />
 
+## JavaScript Site
+A [JavaScript site that is only one page](https://janell-baxter.github.io/JavaScriptDemoSiteSinglePage/).
+
 ## Oggle!
 A version of Boggle created with C# and WPF.
 <img width="400"  alt="Screenshot 2026-03-10 023350" src="https://github.com/user-attachments/assets/df687a15-0965-43e8-926d-e7f9707d474a" />
