@@ -1,4 +1,6 @@
-# Janell's Programming Portfolio
+# Programming Examples
+Examples for a class assignment to create a GitHub portfolio.
+
 <!-- comment! // -->
 <img width="600" alt="placeholderscreenshot" src="https://github.com/user-attachments/assets/212d462a-d703-4976-977a-8aae6163a074" />
 
