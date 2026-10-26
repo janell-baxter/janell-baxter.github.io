@@ -2,19 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
-/* 
-
-title
-description
-your name, date
-
-additional comments
-
-*/
-
 body {
   font-family: Arial, sans-serif;
-  background-color: #f3f3f3;
+  background-color: #F4F1DE;
 }
 
 /*==========content============== */
@@ -22,6 +12,9 @@ main {
   padding: 40px;
 }
 
+h1, h2, h3, h4, h5, h6 {
+ color: #8395A7;
+}
 
 /*==========navigation============== */
 nav {
