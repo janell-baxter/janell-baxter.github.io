@@ -18,27 +18,11 @@ main {
 
 h1, h2, h3, h4, h5, h6 {
  color: #8395A7;
+  border-bottom: 2px solid #B8C9A9;
 }
 
 /*==========navigation============== */
-nav {
-  background-color: #364978;
-  padding: 10px 0;
-  
-  /*flexible box layout see: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout */
-  display: flex;
-  
-  /*  align items along the main axis of a flex container */
-  /* see https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content */
-  justify-content: center;
-  
-  /*define the spacing between rows and columns in layout models */
-  /* see https://developer.mozilla.org/en-US/docs/Web/CSS/gap*/
-  gap: 10px;
-}
-
-/* default navigation */
-nav a {
+ a {
   background-color: #5D6272;
   color: white;
   text-decoration: none;
@@ -47,19 +31,15 @@ nav a {
   font-size: 16px;
 }
 
-nav a:hover {
+ a:hover {
   background-color: #FAA1A1;
 }
 
-nav a.active {
+ a.active {
   background-color: #98AFE9;
 }
 
-main {
 
-}
-
-p {
   width: 100%;
   max-width: 500px; 
   padding: 20px;
